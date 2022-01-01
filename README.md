@@ -1,6 +1,7 @@
 # Virtual Operating System
 
 Virtual Operating System Using Golang And Fyne 
+Implemented Gallery app, Music app, text-editor app, news app and other basic functionalities.
 
 ## Installation
 1.Install [Go](https://golang.org/)   
